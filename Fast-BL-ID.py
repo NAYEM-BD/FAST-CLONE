@@ -1,5 +1,5 @@
-# Compiled By TEAM STLP
-# Github: github.com/STLP-TEAM
+# Compiled By MD NAYEM HASAN
+# Github: github.com/NAYEM-AID
 # Note: Don't Try To Decompile This Tool
 
 
